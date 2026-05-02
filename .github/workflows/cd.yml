@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: camcyberIA/calculator-ci-cd:latest
+          tags: camcyberia/calculator-ci-cd:latest
